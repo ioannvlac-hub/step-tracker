@@ -62,7 +62,7 @@ You'll need Python 3.12 installed. From a terminal:
 
 ```bash
 # 1. Clone
-git clone https://github.com/evangelosvlachos96-dotcom/step-tracker.git
+git clone https://github.com/ioannvlac-hub/step-tracker.git
 cd step-tracker
 
 # 2. Create a virtual environment
@@ -160,5 +160,5 @@ early in my career, not as a polished product.
 
 ## Author
 
-Vlachos Evangelos
-<https://github.com/evangelosvlachos96-dotcom/step-tracker>
+Vlachos Ioannis
+<https://github.com/ioannvlac-hub/step-tracker>
